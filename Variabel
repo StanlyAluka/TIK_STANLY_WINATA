@@ -1,0 +1,10 @@
+//header
+#include <iostream> //input output stream 
+using namespace std;
+
+int main() { //begom of function
+
+   cout<<"Cristiano Ronaldo SUIIIIIIII";
+   cout<<"joe mama";
+
+}//end of function
