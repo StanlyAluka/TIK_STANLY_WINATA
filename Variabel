@@ -1,4 +1,4 @@
-//header
+//header //fungsi koma (,) untuk spasi
 #include <iostream> //input output stream 
 using namespace std;
 
